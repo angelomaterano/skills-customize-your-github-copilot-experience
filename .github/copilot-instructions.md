@@ -39,7 +39,6 @@ Este projeto segue o padrão de Conventional Commits para manter um histórico d
 
 - **feat**: Uma nova funcionalidade
 - **fix**: Correção de bug
-- **docs**: Apenas mudanças na documentação
 - **style**: Mudanças que não afetam o significado do código (espaços em branco, formatação, etc)
 - **refactor**: Mudança de código que não corrige um bug nem adiciona uma funcionalidade
 - **perf**: Mudança de código que melhora a performance
