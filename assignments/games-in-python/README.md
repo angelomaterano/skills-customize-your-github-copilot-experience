@@ -1,6 +1,6 @@
 # 📘 Assignment: Hangman Game Challenge
 
-## 🎯 Objecto
+## 🎯 Objetivo
 
 Build the classic word-guessing game using Python strings, loops, and user input. You'll create a Hangman game where players guess letters to reveal a hidden word before running out of attempts.
 
